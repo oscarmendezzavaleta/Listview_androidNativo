@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
     private ListView lv1;
 
 
-    private String nombres [] = {"Samuel" ,"Valentina","Santiago","Alejandro","Valeria","Benjamin" ,"Gerardo","Carlos","David","Sofia"};
+    private String nombres [] = {"Samuel" ,"Valentina","Santiago","Alejandro","Valeria","Benjamin" ,"Gerardo","Carlos","David","Sofia1"};
     private String edades [] = {"18","25","32","17","24","20" ,"27","15","19","23"};
 
     @Override
